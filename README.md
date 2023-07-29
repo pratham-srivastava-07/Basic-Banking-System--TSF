@@ -20,7 +20,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/basic-banking-system.git
+git clone https://github.com/noobcoder007-exe/basic-banking-system.git
 Import the database:
 
 Create a new database in MySQL.
